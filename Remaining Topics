@@ -5,3 +5,4 @@ Content Negotiating View Resolver
 http://www.mkyong.com/spring-mvc/spring-mvc-find-location-using-ip-address-jquery-google-map/
 http://www.mkyong.com/spring-mvc/spring-mvc-jquery-autocomplete-example/
 Spring MVC Profile (Active Profile)
+<spring:bind> form tag
